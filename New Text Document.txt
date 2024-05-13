@@ -1,0 +1,10 @@
+.home {
+    display: flex;
+    align-items: center;
+    padding: 0 9%;
+    background: url('pasindu sathsara.jpg') no-repeat;
+    background-size: cover;
+    background-position: center;
+    animation: slideLeft 1s ease forwards;
+    animation-delay: 1s;
+}
